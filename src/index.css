@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap');
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+@import "tailwindcss";
+
+body {
+    font-family: "Momo Trust Display", sans-serif;
+    background-color:#1e3a8a;
+}
